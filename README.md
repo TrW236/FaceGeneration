@@ -91,9 +91,9 @@ epoch 11-12: learning rate = 0.0002, batch size = 64
 
 * Results
 
-![res9](./pics/res_tst9.png)
+![res9](https://filedn.com/lUE8ye7yWpzFOF1OFLVsPau/Github/face_generation/res_tst9.png)
 
-![loss9](./pics/loss_tst9.png)
+![loss9](https://filedn.com/lUE8ye7yWpzFOF1OFLVsPau/Github/face_generation/loss_tst9.png)
 
 * Comments
 
@@ -127,9 +127,9 @@ epoch 7: learning rate = 0.00005, batch size = 32
 
 * Results
 
-![res10](./pics/res_tst10.png)
+![res10](https://filedn.com/lUE8ye7yWpzFOF1OFLVsPau/Github/face_generation/res_tst10.png)
 
-![loss10](./pics/loss_tst10.png)
+![loss10](https://filedn.com/lUE8ye7yWpzFOF1OFLVsPau/Github/face_generation/loss_tst10.png)
 
 * Comments
 
@@ -179,7 +179,7 @@ epochs = 2
 
 * Result
 
-![res1](./pics/res_tst1.png)
+![res1](https://filedn.com/lUE8ye7yWpzFOF1OFLVsPau/Github/face_generation/res_tst1.png)
 
 #### Test 2
 
@@ -193,7 +193,7 @@ learning_rate = 0.00005
 
 * Result
 
-![res2](./pics/res_tst2.png)
+![res2](https://filedn.com/lUE8ye7yWpzFOF1OFLVsPau/Github/face_generation/res_tst2.png)
 
 #### Test 3
 
@@ -210,7 +210,7 @@ epochs = 2
 
 * Result
 
-![res3](./pics/res_tst3.png)
+![res3](https://filedn.com/lUE8ye7yWpzFOF1OFLVsPau/Github/face_generation/res_tst3.png)
 
 #### Test 4
 
@@ -227,7 +227,7 @@ epochs = 2
 
 * Result
 
-![res4](./pics/res_tst4.png)
+![res4](https://filedn.com/lUE8ye7yWpzFOF1OFLVsPau/Github/face_generation/res_tst4.png)
 
 #### Test 5
 
@@ -243,7 +243,7 @@ epochs = 2
 
 * Result
 
-![res5](./pics/res_tst5.png)
+![res5](https://filedn.com/lUE8ye7yWpzFOF1OFLVsPau/Github/face_generation/res_tst5.png)
 
 #### Test 6
 
@@ -260,7 +260,7 @@ epochs = 2
 
 * Result
 
-![res6](./pics/res_tst6.png)
+![res6](https://filedn.com/lUE8ye7yWpzFOF1OFLVsPau/Github/face_generation/res_tst6.png)
 
 * Comments
 
@@ -302,9 +302,9 @@ epochs = 2
 
 * Result
 
-![res7](./pics/res_tst7.png)
+![res7](https://filedn.com/lUE8ye7yWpzFOF1OFLVsPau/Github/face_generation/res_tst7.png)
 
-![loss7](./pics/loss_tst7.png)
+![loss7](https://filedn.com/lUE8ye7yWpzFOF1OFLVsPau/Github/face_generation/loss_tst7.png)
 
 ### Test 8
 
@@ -312,9 +312,9 @@ In comparison with `Test 7`, the `learning rate` is changed from `0.0001` into `
 
 * Result
 
-![res8](./pics/res_tst8.png)
+![res8](https://filedn.com/lUE8ye7yWpzFOF1OFLVsPau/Github/face_generation/res_tst8.png)
 
-![loss8](./pics/loss_tst8.png)
+![loss8](https://filedn.com/lUE8ye7yWpzFOF1OFLVsPau/Github/face_generation/loss_tst8.png)
 
 * Comments
 
