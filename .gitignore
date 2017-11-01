@@ -1,0 +1,12 @@
+.ipynb_checkpoints
+__pycache__
+data
+
+face_gen.zip
+
+floyd_requirements.txt
+
+celeba_ckp
+mnist_ckp
+
+pics
